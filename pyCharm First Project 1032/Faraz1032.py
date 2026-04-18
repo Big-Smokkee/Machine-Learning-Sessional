@@ -1,0 +1,2 @@
+name = "Faraz";
+print(name);
